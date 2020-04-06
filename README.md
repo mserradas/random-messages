@@ -5,7 +5,7 @@ Random Messages...
 ## Install
 
 ```npm
-npm i -g random-messages-jm
+npm i -g random-messages-ms
 ```
 
 # Usage
